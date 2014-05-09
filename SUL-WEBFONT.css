@@ -1,0 +1,8 @@
+@font-face{ 
+	font-family: 'MyWebFont';
+	src: url('http://dev.bowdenweb.com/a/fonts/segoe/ui/light/segeo-ui-light-webfont.eot');
+	src: url('http://dev.bowdenweb.com/a/fonts/segoe/ui/light/segeo-ui-light-webfont.eot#iefix') format('embedded-opentype'),
+	     url('http://dev.bowdenweb.com/a/fonts/segoe/ui/light/segeo-ui-light-webfont.woff') format('woff'),
+	     url('http://dev.bowdenweb.com/a/fonts/segoe/ui/light/segeo-ui-light-webfont.ttf') format('truetype'),
+	     url('http://dev.bowdenweb.com/a/fonts/segoe/ui/light/segeo-ui-light-webfont.svg#webfont') format('svg');
+}
